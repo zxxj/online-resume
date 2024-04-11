@@ -139,9 +139,9 @@ const experiences = [
   {
     title: "前端开发工程师",
     company_name: "北京学普思信息科技有限公司",
-    icon: tesla,
+    icon: starbucks,
     iconBg: "#E6DEDD",
-    date: "2020-03 - 2023-05",
+    date: "2021-03 - 2023-05",
     points: [
       "项目1",
       "项目2",
